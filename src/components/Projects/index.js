@@ -32,8 +32,8 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="wordpress website" onClick={() => setToggle('wordpress website')}>Wordpress Website</ToggleButton>
           }
-          <Divider />
-          {/*{toggle === 'machine learning' ?
+          {/*<Divider />
+          {toggle === 'machine learning' ?
             <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
