@@ -279,7 +279,7 @@ export const projects = [
     webapp: "https://monks-event.infinityfreeapp.com/",
   },
   /*{
-    id: 10,
+    id: 7,
     title: "Job Finding App",
     date: "Jun 2023 - Jul 2023",
     description:
