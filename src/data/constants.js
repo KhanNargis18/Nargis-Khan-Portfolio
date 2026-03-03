@@ -171,7 +171,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
     title: "Restaurant Landing Page",
     date: "",
     description:
@@ -190,7 +190,7 @@ export const projects = [
     webapp: "https://restaurantspage.netlify.app/",
   },
   {
-    id: 9,
+    id: 1,
     title: "Digital Business Website",
     date: "",
     description:
@@ -207,7 +207,7 @@ export const projects = [
     webapp: "https://69a2e29b1c8f1071adf0d62e--coruscating-florentine-5dc1d5.netlify.app/",
   },
   {
-    id: 9,
+    id: 2,
     title: "Blinkit UI Clone",
     date: "",
     description:
@@ -223,7 +223,7 @@ export const projects = [
     webapp: "https://blinkit-ui-clone.vercel.app/",
   },
   {
-    id: 0,
+    id: 3,
     title: "Travel Website UI",
     date: "",
     description:
@@ -236,7 +236,7 @@ export const projects = [
     webapp: "https://travel-website-ui-five.vercel.app/",
   },
   {
-    id: 1,
+    id: 4,
     title: "DevWithDev",
     date: "",
     description:
@@ -253,7 +253,7 @@ export const projects = [
     webapp: "https://dev-with-dev.vercel.app/",
   },
   {
-    id: 2,
+    id: 5,
     title: "Random Color Generator",
     date: "",
     description:
@@ -266,7 +266,7 @@ export const projects = [
     webapp: "https://random-color-generator-henna-nu.vercel.app/",
   },
   {
-    id: 3,
+    id: 6,
     title: "Monks Event",
     date: "",
     description:
@@ -279,7 +279,7 @@ export const projects = [
     webapp: "https://monks-event.infinityfreeapp.com/",
   },
   /*{
-    id: 10,
+    id: 7,
     title: "Job Finding App",
     date: "Jun 2023 - Jul 2023",
     description:
