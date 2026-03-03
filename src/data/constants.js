@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/KhanNargis18",
   resume:
-    "https://drive.google.com/file/d/1FWzYnlarARUr5IjVhJ3qSsT6RYQ4Mkth/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1qVNK829_sPfJJm7OeZcpWgp8dV1gRCQZ/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/khan-nargis/",
   //insta: "",
   //facebook: "",
