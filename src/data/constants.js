@@ -183,7 +183,7 @@ export const projects = [
       "CSS",
       "JavaScript",
       "React Js",
-      "Material UI (MUI)",
+      "Tailwind CSS",
     ],
     category: "frontend website",
     github: "https://github.com/KhanNargis18/CodeFlow_AI",
@@ -191,6 +191,19 @@ export const projects = [
   },
   {
     id: 1,
+    title: "StartHub",
+    date: "",
+    description:
+      "A modern and fully responsive business website developed using WordPress and Elementor. The project includes custom-designed pages, interactive sections like sliders, FAQs, and contact forms, along with smooth animations for enhanced user experience. It showcases my ability to build professional websites using CMS tools, customize layouts, and ensure responsiveness across all devices while maintaining clean and engaging design.",
+    image:
+      "./Images/Projects/StartHub.png",
+    tags: ["WordPress", "Elementor", "HTML, CSS (custom styling)", "Design Tools (Canva, Adobe Express)"],
+    category: "wordpress website",
+    github: "https://github.com/KhanNargis18/StartHub",
+    webapp: "https://starthub.wuaze.com/",
+  },
+  {
+    id: 2,
     title: "Restaurant Landing Page",
     date: "",
     description:
@@ -209,7 +222,7 @@ export const projects = [
     webapp: "https://restaurantspage.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Digital Business Website",
     date: "",
     description:
@@ -220,13 +233,15 @@ export const projects = [
       "HTML",
       "CSS",
       "JavaScript",
+      "AOS Library (for animations)",
+      "Font Awesome (icons)",
     ],
     category: "frontend website",
     github: "https://github.com/KhanNargis18/Digital-Business-Website",
     webapp: "https://69a2e29b1c8f1071adf0d62e--coruscating-florentine-5dc1d5.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Blinkit UI Clone",
     date: "",
     description:
@@ -242,7 +257,7 @@ export const projects = [
     webapp: "https://blinkit-ui-clone.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Travel Website UI",
     date: "",
     description:
@@ -255,7 +270,7 @@ export const projects = [
     webapp: "https://travel-website-ui-five.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "DevWithDev",
     date: "",
     description:
@@ -270,19 +285,6 @@ export const projects = [
     category: "frontend website",
     github: "https://github.com/KhanNargis18/DevWithDev",
     webapp: "https://dev-with-dev.vercel.app/",
-  },
-  {
-    id: 6,
-    title: "StartHub",
-    date: "",
-    description:
-      "A modern and fully responsive business website developed using WordPress and Elementor. The project includes custom-designed pages, interactive sections like sliders, FAQs, and contact forms, along with smooth animations for enhanced user experience. It showcases my ability to build professional websites using CMS tools, customize layouts, and ensure responsiveness across all devices while maintaining clean and engaging design.",
-    image:
-      "./Images/Projects/StartHub.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    category: "wordpress website",
-    github: "https://github.com/KhanNargis18/StartHub",
-    webapp: "https://starthub.wuaze.com/",
   },
   {
     id: 7,
