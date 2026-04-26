@@ -27,12 +27,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://logospng.org/download/css-3/logo-css-3-256.png",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png",
       },
       {
         name: "Bootstrap",
@@ -107,7 +107,7 @@ export const skills = [
       {
         name: "VS Code",
         image:
-          "https://www.pngkit.com/png/full/296-2967652_visual-studio-code-vs-code-logo-png.png",
+          "https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png",
       },
     ],
   },
@@ -172,6 +172,25 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "CodeFlow AI Website",
+    date: "",
+    description:
+      "A fully responsive and modern website built using React.js and Tailwind CSS. The project demonstrates component-based architecture, clean UI design, and efficient styling using Tailwind’s utility-first approach. It highlights my ability to build scalable frontend applications, create reusable components, and deliver responsive user experiences across all devices.",
+    image:
+      "./Images/Projects/CodeFlowAI.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React Js",
+      "Material UI (MUI)",
+    ],
+    category: "frontend website",
+    github: "https://github.com/KhanNargis18/CodeFlow_AI",
+    webapp: "https://code-flow-ai-beta.vercel.app/",
+  },
+  {
+    id: 1,
     title: "Restaurant Landing Page",
     date: "",
     description:
@@ -190,7 +209,7 @@ export const projects = [
     webapp: "https://restaurantspage.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Digital Business Website",
     date: "",
     description:
@@ -207,7 +226,7 @@ export const projects = [
     webapp: "https://69a2e29b1c8f1071adf0d62e--coruscating-florentine-5dc1d5.netlify.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Blinkit UI Clone",
     date: "",
     description:
@@ -223,7 +242,7 @@ export const projects = [
     webapp: "https://blinkit-ui-clone.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Travel Website UI",
     date: "",
     description:
@@ -236,7 +255,7 @@ export const projects = [
     webapp: "https://travel-website-ui-five.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "DevWithDev",
     date: "",
     description:
@@ -253,20 +272,20 @@ export const projects = [
     webapp: "https://dev-with-dev.vercel.app/",
   },
   {
-    id: 5,
-    title: "Random Color Generator",
+    id: 6,
+    title: "StartHub",
     date: "",
     description:
-      "A simple web application that generates random background colors. When the user clicks the generate button, the app changes the background color, displays the HEX code, and automatically copies it to the clipboard.",
+      "A modern and fully responsive business website developed using WordPress and Elementor. The project includes custom-designed pages, interactive sections like sliders, FAQs, and contact forms, along with smooth animations for enhanced user experience. It showcases my ability to build professional websites using CMS tools, customize layouts, and ensure responsiveness across all devices while maintaining clean and engaging design.",
     image:
-      "./Images/Projects/Random-Color-Generator.png",
+      "./Images/Projects/StartHub.png",
     tags: ["HTML", "CSS", "JavaScript"],
-    category: "frontend website",
-    github: "https://github.com/KhanNargis18/Random-Color-Generator",
-    webapp: "https://random-color-generator-henna-nu.vercel.app/",
+    category: "wordpress website",
+    github: "https://github.com/KhanNargis18/StartHub",
+    webapp: "https://starthub.wuaze.com/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Monks Event",
     date: "",
     description:
